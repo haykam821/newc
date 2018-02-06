@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/haykam821/newc/issues"
   },
-  "homepage": "https://github.com/haykam821/newc#readme"
+  "homepage": "https://github.com/haykam821/newc#readme",
+  "bin": {
+    "snippet": "./index.js"
+  }
 }
