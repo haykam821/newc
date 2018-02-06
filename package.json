@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/haykam821/newc#readme",
   "bin": {
-    "snippet": "./index.js"
+    "newc": "./index.js"
   }
 }
