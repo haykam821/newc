@@ -23,5 +23,8 @@
   "homepage": "https://github.com/haykam821/newc#readme",
   "bin": {
     "newc": "./index.js"
+  },
+  "dependencies": {
+    "get-stdin": "^5.0.1"
   }
 }
